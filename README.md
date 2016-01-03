@@ -2,4 +2,4 @@ The `backgrounds` folder is to be used as negative samples whilst the `positives
 
 To generate test samples, which comprise of a distorted positive image applied to one or more negative, background images, run `samples.sh`. 
 
-If you require more background images, a good selection can be found  (here)[http://tutorial-haartraining.googlecode.com/svn/trunk/data/negatives/].
+If you require more background images, a good selection can be found  [here](http://tutorial-haartraining.googlecode.com/svn/trunk/data/negatives/).
