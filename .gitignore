@@ -1,4 +1,10 @@
 positives/*
+
 .DS_Store
 *~
 tmp
+*.swp
+
+*.lst
+*.dat
+*.vec
